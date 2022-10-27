@@ -1,0 +1,360 @@
+* {
+    font-family:'Oswald', sans-serif;
+    margin: 0%;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 44px;
+    margin-left: 20px;
+}
+.samsunglogo {
+    width: 140px;
+    height: 21px;
+    background: url(img/image\ 2.png);
+}
+.baruunbulan {
+    width: 48px;
+    height: 48px;
+    background: url(img/image\ 3.png);
+}
+.ullist ul li {
+    display: flex;
+    list-style: none;
+    color: #000000;
+}
+.header {
+    margin: auto;
+}
+.headerback {
+    width: 100%;
+    height: 1080px;
+    background: url(img/image\ 1.png);
+    background-size: cover;
+    margin: 0%;
+}
+header h1 {
+    position: absolute;
+    top: 463px;
+    left: 253px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 105px;
+    width: 492px;
+    height: 105px;
+
+}
+.sum {
+    width: 48px;
+    height: 48px;
+    background: url(img/image\ 4.png);
+    position: absolute;
+    top: 1100px;
+    right: 126px;
+    bottom: 50px;
+    left: 2100px;
+}
+.ehniih {
+    width: 100%;
+    height: 486px;
+    display: flex;
+    justify-content: center;
+}
+.image5 {
+    background: url(img/image\ 5.png);
+    background-size: cover;
+    flex: 1;
+    position: relative;
+}
+.image5 h1:first-child {
+    position: absolute;
+    top: 34px;
+    left: 42px;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+}
+.image5 h1:last-child {
+    position: absolute;
+    top: 70px;
+    left: 42px;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+}
+.image6 {
+    background: url(img/image\ 6.png);
+    background-size: cover;
+    flex: 1;
+    position: relative;
+}
+.image6 h1:first-child {
+    position: absolute;
+    top: 34px;
+    right: 30px;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+}
+.image6 h1:last-child {
+    position: absolute;
+    top: 70px;
+    right: 30px;
+    color: white;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+}
+.allnew {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.hoyr {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
+    margin: 0px;
+}
+.zflip {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(240, 236, 236);
+    background-image: url(img/image\ 7.png);
+    background-size: cover;
+}
+.zflip:hover {
+    background-color: purple;
+}
+.zflip h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 150px;
+    width: 162px;
+    height: 35px;
+    font-size: 23px;
+}
+.zflip2 {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(240, 236, 236);
+    background-image: url(img/image\ 8.png);
+    background-size: cover;
+}
+.zflip2:hover {
+    background-color: purple;
+}
+.zflip2 h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 160px;
+    width: 162px;
+    height: 35px;
+    font-size: 23px;
+}
+.galaxyultra {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(240, 236, 236);
+    background-image: url(img/image9.png);
+    background-size: cover;
+}
+.galaxyultra:hover {
+    background-color: purple;
+}
+.galaxyultra h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 170px;
+    width: 200px;
+    height: 35px;
+    font-size: 23px;
+}
+.galaxys22 {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(240, 236, 236);
+    background-image: url(img/image10.png);
+    background-size: cover;
+}
+.galaxys22:hover {
+    background-color: purple;
+}
+.galaxys22 h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 170px;
+    width: 200px;
+    height: 35px;
+    font-size: 23px;
+}
+.gurav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 480px;
+    margin: 0px;
+}
+.galaxytab {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/image11.png);
+    background-size: cover;
+}
+.galaxytab:hover {
+    background-color: purple;
+}
+.galaxytab h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 60px;
+    width: 337px;
+    height: 35px;
+    font-size: 23px;
+}
+.galaxybuds2 {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/image12.png);
+    background-size: cover;
+}
+.galaxybuds2:hover {
+    background-color: purple;
+}
+.galaxybuds2 h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 140px;
+    width: 202px;
+    height: 35px;
+    font-size: 23px;
+}
+.galaxywatch {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/image13.png);
+    background-size: cover;
+}
+.galaxywatch:hover {
+    background-color: purple;
+}
+.galaxywatch h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 170px;
+    width: 200px;
+    height: 35px;
+    font-size: 23px;
+}
+.accessories {
+    width: 480px;
+    height: 480px;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+    background-image: url(img/image14.png);
+    background-size: cover;
+}
+.accessories:hover {
+    background-color: purple;
+}
+.accessories h1 {
+    position: absolute;
+    top: 400px;
+    right: 150px;
+    bottom: 45px;
+    left: 170px;
+    width: 200px;
+    height: 35px;
+    font-size: 23px;
+}
+footer {
+    margin-top: 44px;
+    margin-bottom: 88px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+footer h1 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    color: #999999;
+}
+.vector {
+    width: 10px;
+    height: 20px;
+    background: url(img/Vector.png);
+    background-size: cover;
+    margin-left: 37px;
+}
+.vector1 {
+    width: 18px;
+    height: 15px;
+    background: url(img/Vector\ \(1\).png);
+    background-size: cover;
+    margin-left: 30px;
+}
+.vector2 {
+    width: 20px;
+    height: 20px;
+    background: url(img/Vector\ \(2\).png);
+    background-size: cover;
+    margin-left: 31px;
+}
+.lastone {
+    width: 550px;
+    margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.lastlogo {
+    width: 170px;
+    max-width: 86px;
+    max-height: 13px;
+    height: 25px;
+    background: url(img/image\ 2.png);
+    background-size: cover;
+}
+.lastone p {
+    color: #666666;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
